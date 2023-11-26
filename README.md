@@ -3,7 +3,7 @@ A calculus learning video game made to help students prepare for the AP Calculus
 
 4 players; Keyboard/mouse and gamepad (Xbox, PS, Switch controller) input supported.
 
-## Game Instructions:
+## Instructions:
   The game will progress in rounds, and each round every player will:
   
  * Answer two questions of varying difficulty to earn points (there is a **right-hand side** scrollbar for the question text/image if it appears to be cut off)
