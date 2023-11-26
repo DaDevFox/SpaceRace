@@ -12,6 +12,7 @@ Launch their rockets (press space or the launch button at the bottom) and repeat
 
 See [Game Directions](https://docs.google.com/document/d/e/2PACX-1vQYhFBtk9IchUOGNw1CT1A5UX-CP_NaaGDrsr2InWViQsCG4UjLpq4iadHn5obK2R5iec3WH1WnoIpL/pub) for more information.
 
+[Answer Key with Explanations](https://docs.google.com/document/d/e/2PACX-1vRrB-l70jR-taNd10nh1rWZUrOgARo9pXdI3F6tfKGXfIcIH5hWUone8FT04O_jXQJony5-XHArT6tv/pub)
+
 ![image](https://github.com/DaDevFox/SpaceRace/assets/53617853/caa68f0b-6a55-425d-a056-5c3d18f483c9)
 
-[Answer Key with Explanations](https://docs.google.com/document/d/e/2PACX-1vRrB-l70jR-taNd10nh1rWZUrOgARo9pXdI3F6tfKGXfIcIH5hWUone8FT04O_jXQJony5-XHArT6tv/pub)
