@@ -1,7 +1,7 @@
 # SpaceRace
 A calculus learning video game made to help students prepare for the AP Calculus AB exam. 
 
-4 players; Keyboard/mouse and gamepad (Xbox, PS, Switch controller) input supported.
+4 players; keyboard/mouse and gamepad (Xbox, PS, Switch controller) input supported.
 
 ## Instructions:
   The game will progress in rounds, and each round every player will:
