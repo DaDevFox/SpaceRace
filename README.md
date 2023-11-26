@@ -6,7 +6,7 @@ A calculus learning video game made to help students prepare for the AP Calculus
 ## Game Instructions:
   The game will progress in rounds, and each round every player will:
   
- * Answer two questions of varying difficulty to earn points (there is a scrollbar [right-hand side] for the question text/image if it appears to be cut off)
+ * Answer two questions of varying difficulty to earn points (there is a **right-hand side** scrollbar for the question text/image if it appears to be cut off)
  * Upgrade their rockets using the currency they earned from the prior questions that round or in previous rounds.
  * Launch their rockets (press space or the launch button at the bottom) and repeat the process until someone reaches the Kármán line.
 
