@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde8415090222944ca27031152461e75, type: 3}
+  m_Name: Question 39
+  m_EditorClassIdentifier: 
+  id: 39
+  questionText: "Find the zero(s) of the function f(x) given f\u2019(x) = 3x\xB2+2x+2
+    and f(0) = 2."
+  questionTextImage: {fileID: 0}
+  options:
+  - textImage: {fileID: 0}
+    text: x=-1
+    pointValue: 1
+  - textImage: {fileID: 0}
+    text: x=-2
+    pointValue: 0
+  - textImage: {fileID: 0}
+    text: x=2
+    pointValue: 0
+  - textImage: {fileID: 0}
+    text: x=-1,2
+    pointValue: 0
+  difficulty: 1

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde8415090222944ca27031152461e75, type: 3}
+  m_Name: Question 2
+  m_EditorClassIdentifier: 
+  id: 2
+  questionText: 
+  questionTextImage: {fileID: 21300000, guid: 53b4fbb5185d78f4da2b8633c7711d5b, type: 3}
+  options:
+  - textImage: {fileID: 0}
+    text: "2x\xB2"
+    pointValue: 0
+  - textImage: {fileID: 0}
+    text: 4
+    pointValue: 0
+  - textImage: {fileID: 0}
+    text: "8x\xB3"
+    pointValue: 1
+  - textImage: {fileID: 0}
+    text: 4x
+    pointValue: 0
+  difficulty: 0

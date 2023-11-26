@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde8415090222944ca27031152461e75, type: 3}
+  m_Name: Question 24
+  m_EditorClassIdentifier: 
+  id: 24
+  questionText: "Find the apex height (highest point) of a rocket\u2019s flight given
+    its vertical position function h(t) = -2t\xB2 + 15t.  "
+  questionTextImage: {fileID: 0}
+  options:
+  - textImage: {fileID: 0}
+    text: 225/8
+    pointValue: 1
+  - textImage: {fileID: 0}
+    text: 15/4
+    pointValue: 0
+  - textImage: {fileID: 0}
+    text: 15/8
+    pointValue: 0
+  - textImage: {fileID: 0}
+    text: 225/2
+    pointValue: 0
+  difficulty: 1
